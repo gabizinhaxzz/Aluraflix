@@ -1,0 +1,43 @@
+body {
+    color: #790491;
+    background: rgb(200, 81, 230);
+    margin: 0px;
+
+}
+
+header {
+    border-bottom: solid 2px rgb(197, 7, 255);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(107, 10, 116);
+    justify-content: center
+}
+
+.chamada {
+    background: #d57ee9;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+img {
+    height: 200px;
+}
+
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria  {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
